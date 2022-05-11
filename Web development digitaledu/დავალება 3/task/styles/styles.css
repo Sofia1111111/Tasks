@@ -1,0 +1,113 @@
+div > p {
+    color: red;
+
+}
+div p {
+    font-size: 18px;
+
+}
+
+nav {
+    display: inline-block;
+}
+nav ul {
+   display: inline-block;
+   text-decoration: none;
+   list-style-type: none;
+
+}
+#home {
+    display: inline-block;
+}
+#news {
+    display: inline-block;
+}
+#about {
+    display: inline-block;
+}
+
+article + img {
+   
+    width:240px;
+    height: 220px;
+}
+a {
+    text-decoration: none;
+    list-style-type: none;
+}
+#main-div {
+    display: inline-block;
+    color: black;
+    height: 100px;
+    width: 100px ;
+    border: solid;
+
+
+}
+#second-div {
+    display: inline-block;
+    border: solid;
+    color:black;
+    height: 30px;
+    width: 30px;
+    padding: 0;
+    margin-top:10px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    margin-left:10px;
+
+    
+}
+
+#last-div {
+    display: inline-block;
+    border: solid;
+    color:black;
+    height: 30px;
+    width: 30px;
+    padding: 0;
+    margin-top:5px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    margin-left:5px;
+    
+}
+#first-div {
+    display: inline-block;
+    border: solid;
+    color:black;
+    height: 30px;
+    width: 30px;
+    padding: 0;
+    margin-top:10px;
+    margin-bottom: 5px;
+    margin-right:5px;
+    margin-left:10px;
+}
+
+#second-div {
+    display: inline-block;
+    border: solid;
+    color:black;
+    height: 30px;
+    width: 30px;
+    padding: 0;
+    margin-top:10px;
+    margin-bottom: 5px;
+    margin-right:10px;
+    margin-left: 5px;
+  
+    
+}
+#third-div {
+    display: inline-block;
+    border: solid;
+    color:black;
+    height: 30px;
+    width: 30px;
+    padding: 0;
+    margin-top:5px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    margin-left:10px;
+}

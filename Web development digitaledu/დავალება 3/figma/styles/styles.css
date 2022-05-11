@@ -1,0 +1,215 @@
+* {
+    margin: 0px;
+}
+#brandname {
+    display: inline-block;
+    margin-top: 30px;
+    margin-right: 77px;
+    margin-bottom: 175px;
+    margin-left: 195px;
+    font-weight: 700, bold;
+    font-size: 24px;
+    line-height: 32px;
+    left: 0px;
+    top: 13px;
+    color: #ECECEC;
+}
+header {
+    background-color: #CC3399;
+}
+.navigation {
+    list-style-type: none;
+    text-decoration: none;
+    display: inline-block;
+}
+#nav-home { 
+    display: inline-block;
+    margin-top: 33px;
+    margin-left:77px;
+    margin-right:19px;
+    color: #100F0F;
+    font-size: 14px;
+    font-weight: 700, bold;
+
+}
+#nav-product {
+    display: inline-block;
+    margin-left: 19px;
+    margin-right: 19px;
+    margin-top: 33px;
+    font-size: 14px;
+    font-weight: 700, bold;
+    color: white;
+
+
+}
+#nav-pricing {
+    display: inline-block;
+    margin-left: 19px;
+    margin-right: 19px;
+    margin-top: 33px;
+    font-size: 14px;
+    font-weight: 700, bold;
+     color:white;
+
+}
+#nav-contact{
+    display: inline-block;
+    margin-left: 19px;
+    margin-top: 33px;
+    font-size: 14px;
+    font-weight: 700, bold;
+    color:white;
+
+}
+#registration {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 700, bold;
+    Line height: 22px;
+}
+#login{
+    display: inline-block;
+    margin-left: 237px;
+    margin-right: 45px;
+    margin-top: 34px;
+    margin-bottom: 175px;
+    color: white;
+}
+#sign-up {
+ display: inline-block;
+ padding: 15px, 25px, 15px, 25px;
+ background-color: black;
+ color: white;
+ width: 138px;
+ height: 52px;
+ text-align: center;
+ position: absolute;
+ margin-top: 19px;
+ margin-bottom: 164px;
+ margin-left: 45px;
+ margin-right: 278px;
+ font-weight: 700, Bold
+ font-size: 14px
+ Line-height: 22px
+}
+#red-div {
+    background-color: #E74040;
+    width: 94px;
+    height: 7px;
+    display: inline-block;
+    margin-left: 195px;
+    margin-bottom: 175px;
+    margin-right: 443px;
+    margin-bottom: 35px;
+    position: relative;
+    top: 50px;
+}
+#title {
+  height: 100px;
+  width: 446px;
+  display: inline-block;
+  margin-left: 195px;
+  margin-bottom: 35px;
+  margin-right: 91px;
+  font-size: 40px;
+  font-weight: 700, bold;
+  position: relative;
+  top: -270px;
+}
+#description {
+    display: inline-block;
+    Width: 434px
+    Height: 60px
+    margin-top: 35px;
+    margin-left: 195px;
+    margin-right: 103px;
+    font-size: 14px;
+    font-weight: 400,regular;
+    color: white;
+    position: relative;
+    top: -250px;
+
+}
+#learn-more {
+    display: inline-block;
+    margin-top: 35px;
+    margin-left: 195px;
+    margin-right: 433.38px;
+    font-size: 14px;
+    font-weight: 700,bold;
+    width: 85px;
+    height: 24px;
+    color:#FF6551;
+    position: relative;
+    top: -250px;
+}
+section {
+    background-color: #CC3399;
+}
+#main-image {
+    display: inline-block;
+    width: 513px;
+    height: 300px;
+    margin-left:732px;
+}
+#last-nav {
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 195px;
+    position: relative;
+    left: -240px;
+    font-weight: 700,bold;
+}
+#information {
+   background-color: #640366;
+}
+#company-info {
+    color: #252B42;
+    display: inline-block;
+    margin-top:50px;
+    margin-bottom: 20px;
+    margin-left:195px;
+}
+#about {
+    color: #737373;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 195px;
+}
+#carrier {
+    color: #737373;
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-left: 195px;
+}
+#hiring {
+    color: #737373;
+    margin-top: 10px;
+    margin-bottom:10px;
+    margin-left: 195px;
+}
+#blog {
+    color: #737373;
+    margin-top: 10px;
+    margin-left: 195px;
+    margin-bottom: 52px;
+}
+span {
+    display: inline-block;
+    margin-right: 511.5px;
+    margin-left: 195px;
+    margin-top:25px;
+    margin-bottom:25px;
+    color: #737373;
+    font-size: 14px;
+    font-weight: 700,bold;
+}
+#facebook {
+    margin-right:22px;
+
+}
+#instagram {
+    margin-right:22px;
+}

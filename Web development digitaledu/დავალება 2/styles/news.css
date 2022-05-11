@@ -1,0 +1,99 @@
+a {
+    text-decoration: none;
+}
+.logo {
+    width: 71px;
+    height: 72px;
+}
+.nav-list {
+    list-style-type: none;
+}
+#nav-home {
+    color: black;
+}
+#nav-contact{
+    color: black;
+}
+#nav-news {
+    color: red;
+}
+.list-name {
+    font-size: 32px;
+}
+.rectangle {
+    width: 118px;
+    height: 87px;
+    background-color: #FF8D07;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    left: 65px;
+    top: 274px;
+    vertical-align: middle;
+}
+.month {
+width: 76px;
+height: 48px;
+font-weight: bold;
+text-align: center;
+position: relative;
+left: 20px;
+}
+.title {
+width: 316px;
+height: 48px;
+font-weight: 500, medium;
+font-style: medium;
+}
+.poster {
+height: 274px;
+width: 202px;
+left: 31px;
+top: 468px;
+border-radius: 0px;
+}
+.article {
+width: 1392px;
+height: 315px;
+left: 34px;
+top: 766px
+}
+span {
+    color: red;
+    font-weight: bold;
+}
+.second-rectangle {
+width: 118px;
+height: 87px;
+left: 34px;
+top: 1325px;
+background-color: #FF8D07;
+font-size: 40px;
+text-align: center;
+color: white;
+font-weight: bold;
+}
+.month2 {
+width: 76px;
+height: 48px;
+left: 49px;
+top: 1413px;
+font-weight: bold;
+}
+.poster2 {
+width: 181.02px;
+height: 274px;
+left: 34px;
+top: 1509px;
+}
+.article2 {
+ width: 1392px;
+height: 279px;
+left: 37px;
+top: 1831px;
+}
+b {
+    color: red;
+    font-weight: bold;
+}

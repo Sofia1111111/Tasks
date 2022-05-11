@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+<!--1: div ელემენტის შვილობილი p ელემენტი გახადეთ წითელი ფერის
+    2: div ელემენტის კონტენტში არსებული ყველა p ელემენტს მიანიჭეთ ფონტის ზომა 18px
+    3: article ელემენტის შემდეგ პირველი img ელემენტის width : 240px . height : 220px;
+    4: კლასების დამატების გარეშე მოაქციეთ ნავიგაციის სია ჰორიზონტალურ ხაზზე 
+    5: a ლინკ ელემენტს მოაშორეთ ყველანაირი სტილი , ფერის ჩათვლით .
+    6: დახატეთ ფანჯარა , ერთი დიდ კვადრატში მოაქციეთ 4 პატარა კვადრატი (თანაბარი ზომების) დააშორეთ როგორც მთავარი კვადრატის
+       გვერდებიდან ისე ერთმანეთისგანაც. დაგჭირდებათ 5 div. ასევე border padding margin პარამეტრების გამოყენება
+    7: გაასწორეთ შეცდომები.
+-->
+<body>
+    <header>
+        <div class="logo12">
+            <img src="assets/main.jpg">
+        </div>
+        <nav>
+            <ul>
+                <li id="home">Home</li>
+                <li id="news">News</li>
+                <li id="about">About</li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <div>
+            <h1>3 fun facts about Penguins</h1>
+            <p>Why is penguin so special ?</p>
+            <article>
+                <h2>1. Gentoo Penguins are the fastest of all penguin species!</h2>
+                <p>These penguins can swim at speeds of up to 36km/h! That's 4 times faster than any Olympic swimmer!</p>
+                <img src="./assets/first_penguin.jpg">
+                <h3>2. The oldest penguin fossils are 62 million years old</h3>
+                <p>That is only 3 million years after the dinosaurs disappeared! </p>
+                <h4>3. Penguins poop every 20 minutes </h4>
+                <p>Penguins have a very fast metabolism this means they need to poop, a lot!</p>
+            </article>
+            <img src="./assets/penguin-expedition.jpg">
+        </div>
+        <a href="https://www.visitsealife.com/sydney/information/news/5-fun-facts-about-penguins/" target="_blank">"https://www.visitsealife.com/sydney/information/news/5-fun-facts-about-penguins/</a>
+    </section>
+    <div class="div" id="main-div"> 
+        <div id="first-div"></div>
+        <div id="second-div"></div>
+        <div id="third-div"></div>
+        <div id="last-div"></div>
+    </div>
+    <!--
+       დახატეთ ფანჯარა , ერთი დიდ კვადრატში მოაქციეთ 4 პატარა კვადრატი (თანაბარი ზომების) დააშორეთ როგორც მთავარი კვადრატის
+       გვერდებიდან ისე ერთმანეთისგანაც. დაგჭირდებათ 5 div. ასევე border padding margin პარამეტრების გამოყენება
+    -->
+    <footer>
+        <p class="footer-main">Main</p>
+        <p class="footer-copy">Copyright</p>
+        <p class="footer-home" id="home">Home</p>
+        <p>Address</p>
+    </footer>
+</body>
+</html>

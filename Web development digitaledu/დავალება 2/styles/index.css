@@ -1,0 +1,37 @@
+a {
+    text-decoration: none;
+}
+#logo {
+    width: 71px;
+    height: 72px;
+}
+#main-picture {
+    display: block;
+    margin-right: auto;
+    margin-left:auto;
+    width: 944px;
+    height: 626px;
+
+}
+.nav-list {
+    list-style-type: none;
+}
+#nav-home {
+    color: red;
+}
+.list-name {
+    font-size: 32px;
+}
+h1 {
+    text-align: center;
+}
+#nav-news {
+    color: black;
+
+}
+#nav-contact {
+    color: black;
+}
+.main-section h1 {
+    font: size 34px;
+}

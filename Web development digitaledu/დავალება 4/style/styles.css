@@ -1,0 +1,232 @@
+*{
+background-color: #E5E5E5;
+}
+.first-title {
+    display: inline-block;
+    font-family: Space Grotesk;
+    font-size: 400px;
+    font-weight: 600;
+    line-height: 480px;
+    border: 1px solid;
+    color: transparent;
+    -webkit-text-stroke: 1px rgb(255, 255, 255);
+    text-shadow: none;
+
+}
+header {
+    background-color:#E5E5E5; ;
+}
+
+.very-first-title{
+    width: 4211px;
+    height: 480px;
+
+}
+.second-title {
+    display: inline-block;
+    font-family: Space Grotesk;
+    Font-style: 700, Bold;
+    Font-size: 400px;
+    Line-height: 414px;
+    vertical-align: Top;
+    color: transparent;
+    -webkit-text-stroke: 1px rgb(255, 255, 255);
+    text-shadow: none;
+
+}
+section {
+    background-color: #E5E5E5;
+    position: relative;
+    top: 300px;
+
+}
+.vertical {
+    width: 168px;
+    height:4136px;
+    font-family: Space Grotesk;
+    border-left: 6px;
+    height: 200px;
+    position:absolute;
+    left: 50%;
+    color: transparent;
+    -webkit-text-stroke: 1px rgb(255, 255, 255);
+    text-shadow: none;
+    font-weight: 600px;
+    font-size: 200px;
+    Line-height: 188px;
+    vertical-align: Top;
+    position: relative;
+    left: 200px;
+}
+.black-page {
+    background-color: black;
+    height: 6791px;
+    width: 1920px;
+    position: relative;
+    left: 400px;
+
+}
+.timX {
+    height: 24px;
+    width: 51px;
+    display: inline-block;
+    color: white;
+
+}
+.Design {
+width: 89px;
+height:24px;
+display: inline-block;
+color: white;
+}
+.div-1 {
+    height: 0px;
+    width: 87px;
+    color: white;
+    position: relative;
+    left: 300px;
+    left: 1622px;
+    top: 80px;
+    border: 1px solid #FFFFFF;
+
+}
+.div-2 {
+    height: 0px;
+    width: 87px;
+    color: white;
+    position: relative;
+    left: 300px;
+    left: 1622px;
+    top: 95px;
+    border: 1px solid #FFFFFF;
+}
+.micro-int {
+    font-family: 'Source Serif 4';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 128px;
+    line-height: 120%;
+    color: #FFFFFF;
+    background-color: black;
+    width: 610px;
+    height: 308px;
+    left: 246px;
+    top: 362px;
+    position: relative;
+    left: 246px;
+
+
+}
+.trigger {
+font-family: 'Space Grotesk';
+font-weight: 300;
+font-size: 48px;
+line-height: 61px;
+position: absolute;
+width: 256px;
+height: 58px;
+left: 1235px;
+top: 414px;
+color: #FFFFFF;
+background-color: black;
+display: inline-block;
+
+
+}
+.description {
+    position: absolute;
+    width: 474px;
+    height: 152px;
+    left: 100px;
+    top: 0px;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 20px;
+    background-color: black;
+    color: white;
+    position: relative;
+    left: 1230px;
+    top: 100px;
+
+
+}
+h3 {
+    position: relative;
+    top: 100px;
+}
+.front-end {
+position: absolute;
+width: 1034px;
+height: 828px;
+left: 0px;
+top: 0px;
+background-color: black;
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 700;
+font-size: 400px;
+line-height: 103.5%;
+color: transparent;
+-webkit-text-stroke: 1px rgb(255, 255, 255);
+text-shadow: none
+position: relative;
+top: 400px;
+left: 200px;
+}
+.on-time-trigger {
+position: absolute;
+width: 961px;
+height: 132px;
+left: 548px;
+top: 1803px;
+background-color: black;
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 700;
+font-size: 128px;
+line-height: 103.5%;
+position: relative;
+top: 1000px;
+color: white;
+
+}
+.second-description {
+position: absolute;
+width: 392px;
+height: 152px;
+left: 1031px;
+top: 2069px;
+background-color: black;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 150%;
+position: relative;
+top: 850px;
+left: 1100px;
+color: white;
+}
+.vertical-2 {
+    width: 174px;
+    height: 6600px;
+    left:-3px;
+    top:0px;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 200px;
+    line-height: 150%;
+    text-align: center;
+    border: 1px solid #FFFFFF;
+    vertical-align: Top;
+    color: transparent;
+    -webkit-text-stroke: 1px rgb(255, 255, 255);
+    text-shadow: none;
+    background-color: black;
+    position: relative;
+    top: 850px;
+    left: 800px;
+}

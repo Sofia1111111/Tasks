@@ -1,0 +1,41 @@
+a {
+    text-decoration: none;
+}
+.nav-list {
+    list-style-type: none;
+}
+.logo {
+width: 71px;
+height: 72px;
+left: 13px;
+top: 13px;
+}
+#nav-contact {
+    color:red;
+}
+#nav-news {
+    color: black;
+}
+#nav-home {
+    color: black;
+}
+.list-name {
+    font-size: 32px;
+}
+.contact-info{
+list-style-type: none;
+text-align: center;
+width: 728px;
+height: 144px;
+right: 295px;
+left: 417px;
+top: 429px;
+font-weight: 500;
+font-size: 32px;
+position: relative;
+top: 30px;
+left: -4px;
+}
+b {
+    color: green;
+}

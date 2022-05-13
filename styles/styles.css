@@ -1,8 +1,26 @@
 * {
-    background-color: black;
+    background-color: rgb(196, 99, 140);
     list-style-type: none;
     text-decoration: none;
 }
+
 header {
-    font-style: ;
+    font-style: none;
+}
+.welcome {
+    color: white;
+    font-size: large;
+
+}
+.main-nav {
+    color:antiquewhite;
+}
+.workshops {
+    font-size: 40px;
+    position: relative;
+    top: 150px;
+    left: 200px;
+    color:lightseagreen;
+
+
 }

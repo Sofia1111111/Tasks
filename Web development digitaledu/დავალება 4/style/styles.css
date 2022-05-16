@@ -66,14 +66,13 @@ section {
     left: 400px;
 
 }
-.timX {
+.timx-class {
     height: 24px;
     width: 51px;
     display: inline-block;
     color: white;
-
 }
-.Design {
+.design-class {
 width: 89px;
 height:24px;
 display: inline-block;

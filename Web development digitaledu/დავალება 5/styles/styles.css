@@ -84,7 +84,7 @@ header {
    
 }
 .section2::after, .section2::before {
-    content:"";
+    content:'';
     display: block;
 }
 .section2::after {

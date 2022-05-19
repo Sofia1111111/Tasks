@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+nav {
+    text-decoration: none;
+    list-style-type: none;
+    float: left;
+    color: #fff;
+}
+ul {
+    list-style-type: none;
+}
+.Brandname {
+font-family: Montserrat;
+font-weight: 700;
+font-size: 24px;
+position: absolute;
+top: 10px;
+left: 270px;
+ }
+.home {
+     font-family: montserrat;
+     font-weight: 700;
+     font-size: 14px;
+     position: relative;
+     top: 100px;
+     left: 30px;
+}
+ .main-div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -5;
+    width: 100%;
+    height: 100%;
+    background: url(/images/hero-6-cover\ sec-\ \(1\).png);
+   background:  linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/hero-6-cover\ sec-\ \(1\).png);
+}

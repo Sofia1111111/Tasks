@@ -54,6 +54,10 @@ nav {
     margin-right: 100px;
     margin-left:100px;
     margin-top: 30px;
+    background-image: url('../images/Vector\ \(1\).png');
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid black;
 }
 .projects {
    position: relative;
@@ -123,11 +127,60 @@ footer {
     top: 600px;
     left: 100px;
 }
+
 .mail {
-    position: relative;
-    top: 100px;
-    left: 100px;
-    height: 20px;
+    border-radius: 3px;
+    background-image: url('../images/mail.png');
+    background-repeat: no-repeat;
+    background-position: center;
     width: 20px;
-    color:#fff;
+    height:20px;
+    position:relative;
+    top:80px;
+    left:450px;
+}
+.facebook {
+    border-radius: 13px;
+    background-image: url('/images/facebook.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 23px;
+    height:23px;
+    position:relative;
+    top:59px;
+    left:500px;
+    border: 1px solid white;
+}
+.instagram {
+    border-radius: 13px;
+    background-image: url('../images/insta.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 23px;
+    height:23px;
+    position:relative;
+    top:36px;
+    left:552px;
+   
+}
+.youtube {
+    border-radius: 13px;
+    background-image: url('../images/video.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 23px;
+    height:23px;
+    position:relative;
+    top:14px;
+    left:599px;
+    border: 0.5px solid white;
+   
+}
+.about-line {
+    width: 38px;
+    height: 1px;
+    background-color: white;
+    position: relative;
+    top: 55px;
+    left: 403px;
 }

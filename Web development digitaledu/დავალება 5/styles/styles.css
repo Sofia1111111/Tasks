@@ -13,7 +13,6 @@ header {
     margin-right:173px;
     border: 1px black solid;
     width:1382px;
-    height: 315px;
     box-sizing: border-box;
 }
 .div {
@@ -41,16 +40,16 @@ header {
     background-color: #3AA7A7;
     margin-right: 50px;
 }
-/*.section1::after, .section1::before {
+.section1::after, .section1::before {
     content:"";
     display: block;
 }
 
-.section::after {
+.section1::after {
     clear: both;
 }
-*/
-.big-div1 {
+
+/* .big-div1 {
     width: 100px;
     height: 100px;
     background-color: #1AB48F;
@@ -81,19 +80,44 @@ header {
     box-sizing: border-box;
     width: 1500px;
     height: 1000px;
-   
-}
-.section2::after, .section2::before {
+    clear: left;
+} */
+/*.section2::after, .section2::before {
     content:'';
     display: block;
 }
 .section2::after {
     clear: left;
+ */
+.section2 {
+clear:both;
+margin-left: 130px;
+margin-top: 50px;
+ }
+.big-div {
+    width: 430px;
+    height: 319px;
+    border: 1px solid black;
+    margin: 30px;
+    float: left;
+}
+#big1 {
+    background-color: #1AB48F;
+
+}
+#big2 {
+    background-color: #2A7AC4;;
+}
+#big3 {
+    background-color: #DE3A3A;
 }
 .footer {
-    width: 1728px;
+width: 1728px;
 height: 159px;
 left: 0px;
 top: 958px;
 background-color: #415B35;
+position: relative;
+top: 450px;
+left:0px;
 }

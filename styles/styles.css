@@ -1,19 +1,29 @@
 * {
-    background-color: rgb(196, 99, 140);
+    background-color:lightsteelblue;
     list-style-type: none;
     text-decoration: none;
+}
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+}
+a {
+    color: white;
 }
 
 header {
     font-style: none;
+    display:flex;
+    flex-direction: row;
 }
-.welcome {
-    color: white;
+.welcome-banner {
     font-size: large;
+    justify-content: center;
+    color:antiquewhite;
 
 }
 .main-nav {
     color:antiquewhite;
+    
 }
 .workshops {
     font-size: 40px;
@@ -21,6 +31,23 @@ header {
     top: 150px;
     left: 200px;
     color:lightseagreen;
-
-
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    width:600px;
+    height: 400px;
+    justify-content: space-evenly;
+    border: 1px solid white;
+    background-color: lightpink;
+    
+}
+.workshops:hover {
+    list-style-type: none;
+    text-decoration: none;
+}
+li {
+    background-color: lightpink;
+}
+.workshop1, .workshop2, .workshop3, .workshop4, .workshop5, .workshop6, .workshop7 {
+    background-color: lightpink;
 }
